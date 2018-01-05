@@ -1,14 +1,14 @@
 # Portfolio
-Projektit jotka olen tehnyt tai osallistunut.
+Projektit jotka olen tehnyt tai osallistunut
 
 ## Uutissivusto
 Kahden viikon miniprojekti (spring web-palvelin ohjelmoinnin kurssin lopuksi)
-<br/> arvosteltava vielä
+<br/> Arvosteltava vielä
 <br/> https://github.com/kapistelijaKrisu/wepaJava
 
 ## Kirjainmerkki appi (ryhmätyö)
 Neljän viikon Scrumiin tutustumisen työ (osana ohjelmistotuotannon kurssia)
-<br/> arvosteltava vielä
+<br/> Arvosteltava vielä
 <br/> https://github.com/Ouzii/ohtuMiniprojektiTeamPollot
 
 ## Pelin esineitä varten luotu kirjainpito killalle - websivu
@@ -21,5 +21,5 @@ Viiden viikon (käytännössä 3.5vk palvelimen kaatuilun takia) tietokanta proj
 Seitsemän viikon iteratiivisisen ohjelmoinnin harjoitustyö
 <br/> Arvosana 5/5. 
 <br/> UI ei ollut painopisteenä, mutta valmiin ohjelman osaksi selläinen piti tehdä. Siihen suhtauduinkin kunhan se on selvä ja toimiva.
-<br/> Sovelluslogiikka on mielestäni erinomaisen siisti ja yksinkertainen.
+<br/> Sovelluslogiikka on mielestäni erinomaisen siisti.
 <br/> https://github.com/kapistelijaKrisu/JavaPaint
