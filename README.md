@@ -22,9 +22,3 @@ Seitsemän viikon iteratiivisisen ohjelmoinnin harjoitustyö
 <br/> Arvosana 5/5. UI ei ollut painopisteenä, mutta valmiin ohjelman osaksi selläinen piti tehdä. Siihen suhtauduinkin kunhan se on selvä ja toimiva.
 <br/> Sovelluslogiikasta toisaalta olen hyvin ylpeä.
 <br/> https://github.com/kapistelijaKrisu/JavaPaint
-
-## Hello app
-Ensimmäinen projekti, jolla on jonkinlaista rakennetta. Tehty noin kuukaudessa. (Ennen kuin aloitin opinnot yliopistolla)
-<br/> Haluan näyttää tämän näyttääkseeni oma-aloitteisuuteni uuden oppimiseen!
-<br/> Näin jälkikäteen tietenkin tätä sattuu katsoa pikkuisen, mutta se on ensimmäinen lapseni.
-<br/> https://github.com/kapistelijaKrisu/AsteroidCrash
