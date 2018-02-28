@@ -8,7 +8,8 @@ Kahden viikon miniprojekti (spring web-palvelin ohjelmoinnin kurssin lopuksi)
 
 ## Kirjainmerkki appi (ryhmätyö)
 Neljän viikon Scrumiin tutustumisen työ (osana ohjelmistotuotannon kurssia)
-<br/> Arvosteltava vielä
+<br/> Arvosana 9/10
+<br/> Hajosi lombok päivityksen yhteydessä
 <br/> https://github.com/Ouzii/ohtuMiniprojektiTeamPollot
 
 ## Pelin esineitä varten luotu kirjainpito killalle - websivu
